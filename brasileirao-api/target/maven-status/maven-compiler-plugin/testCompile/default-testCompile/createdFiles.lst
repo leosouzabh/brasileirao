@@ -1,0 +1,3 @@
+br\com\montreal\script\runner\ScriptRunnerTest.class
+br\com\montreal\script\manager\controller\api\ProcessaControllerTest.class
+br\com\montreal\script\manager\controller\api\ProcessaApiTest.class

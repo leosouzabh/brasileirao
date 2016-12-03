@@ -1,0 +1,35 @@
+<ion-view>
+
+    
+
+    <ion-content>
+        
+        <ion-list>
+            <ion-item style="padding:0px" >
+                <div class="row" style="font-size:14px; padding:0px">
+                    <div class="col col-33"></div>
+                    <div class="col pto gray"><strong>P</strong></div>
+                    <div class="col pto"><strong>J</strong></div>
+                    <div class="col pto gray"><strong>V</strong></div>
+                    <div class="col pto"><strong>E</strong></div>
+                    <div class="col pto gray"><strong>D</strong></div>
+                    <div class="col pto"><strong>SG</strong></div>
+                    
+                </div>
+            </ion-item>
+            <ion-item ng-repeat="time in times" style="padding:0px" href="#/detalhe">
+                <div class="row" style="font-size:14px; padding:0px">
+                    <div class="col col-33">{{time.id}}&nbsp;&nbsp;&nbsp;{{time.nome}}</div>
+                    <div class="col pto gray">{{time.pt}}</div>
+                    <div class="col pto">{{time.j}}</div>
+                    <div class="col pto gray">{{time.vit}}</div>
+                    <div class="col pto">{{time.emp}}</div>
+                    <div class="col pto gray">{{time.der}}</div>
+                    <div class="col pto">{{time.sg}}</div>
+                </div>
+            </ion-item>
+        </ion-list>
+        
+        
+    </ion-content>
+</ion-view>

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: script-runner
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: leonardo.pinto
+Implementation-Vendor-Id: br.com.montreal
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/script-runne
+ r/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
