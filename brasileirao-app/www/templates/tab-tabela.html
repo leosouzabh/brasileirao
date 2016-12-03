@@ -1,0 +1,44 @@
+<ion-view>
+    
+    
+    <ion-header-bar align-title="left" class="bar-positive">
+        <div class="buttons">
+            <a class="button button-icon icon ion-navicon"></a>
+        </div>
+        <h1 class="title">Brasileirão</h1>
+        <!--<div class="buttons">
+            <button class="button">Right Button</button>
+        </div>-->
+    </ion-header-bar>
+    
+    <ion-header class="bar bar-balanced bar-subheader">
+        <div class="row">
+            <div class="col">Classificação</div>
+            <div class="col col-10 pto">P</div>
+            <div class="col col-10 pto">J</div>
+            <div class="col col-10 pto">V</div>
+            <div class="col col-10 pto">E</div>
+            <div class="col col-10 pto">D</div>
+            <div class="col col-10 pto">SG</div>
+        </div>    
+    </ion-header>
+    
+    <ion-content class="has-subheader">
+        <ion-list>
+            <ion-item ng-repeat="time in tabela" style="padding: 5px">
+                <div class="row"  ng-click="detalhes(time)">
+                    <div class="col">{{time.nome}}</div>
+                    <div class="col col-10 pto">{{time.pontos}}</div>
+                    <div class="col col-10 pto">{{time.numJogos}}</div>
+                    <div class="col col-10 pto">{{time.numJogos}}</div>
+                    <div class="col col-10 pto">{{time.numJogos}}</div>
+                    <div class="col col-10 pto">{{time.numJogos}}</div>
+                    <div class="col col-10 pto">{{time.numJogos}}</div>
+                </div>
+            </ion-item>
+        </ion-list>
+    	
+        
+         
+    </ion-content>
+</ion-view>

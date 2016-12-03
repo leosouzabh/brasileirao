@@ -1,0 +1,58 @@
+<ion-view>
+    
+    
+    <ion-header-bar align-title="left" class="bar-positive">
+        <div class="buttons">
+            <a class="button button-icon icon ion-navicon"></a>
+        </div>
+        <h1 class="title">Brasileirão</h1>
+        <!--<div class="buttons">
+            <button class="button">Right Button</button>
+        </div>-->
+    </ion-header-bar>
+    
+    <ion-header class="bar bar-balanced bar-subheader">
+        <div class="buttons">
+            <a class="button button-icon icon ion-ios-arrow-left" ng-click="back()"></a>
+        </div>
+        <h1 class="title">Rodada {{rodadaAtual}}</h1>
+        <div class="buttons">
+            <a class="button button-icon icon ion-ios-arrow-right" ng-click="next()"></a>
+        </div>
+    </ion-header>
+    
+    <ion-content class="has-subheader">
+        <ion-list>
+            <ion-item ng-repeat="rodada in rodadas" style="padding: 5px">
+                <div class="row">
+                    <div class="row">
+                        <div class="col col-center">
+                            <div class="col-demo txtCenter">
+                                <img ng-src='./img/escudos/{{rodada.timeA.nome}}.png' class="escudo"/>
+                            </div>
+                            <div class="col-demo txtCenter">{{rodada.timeA.nome}}</div>
+                        </div>
+                        <div class="col col-center">
+                            <div class="col-demo txtCenter">Line 1</div>
+                        </div>
+                        <div class="col">
+                            <div class="col-demo txtCenter">{{rodada.rodada}}<br>Line 2<br>Line 3</div>
+                        </div>
+                        <div class="col col-center">
+                            <div class="col-demo txtCenter">Line 1</div>
+                        </div>
+                        <div class="col col-center">
+                            <div class="col-demo txtCenter">
+                                <img ng-src='./img/escudos/{{rodada.timeB.nome}}.png' class="escudo"/>
+                            </div>
+                            <div class="col-demo txtCenter">{{rodada.timeB.nome}}</div>
+                        </div>
+                    </div>
+                </div>
+            </ion-item>
+        </ion-list>
+    	
+        
+         
+    </ion-content>
+</ion-view>

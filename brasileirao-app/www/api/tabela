@@ -1,0 +1,152 @@
+[
+{
+"chave": null,
+"nome": "Palmeiras",
+"pontos": 77,
+"vitorias": 23,
+"empates": 8,
+"derrotas": 6,
+"saldoGols": 29,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Flamengo",
+"pontos": 70,
+"vitorias": 20,
+"empates": 10,
+"derrotas": 7,
+"saldoGols": 17,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Santos",
+"pontos": 68,
+"vitorias": 21,
+"empates": 5,
+"derrotas": 11,
+"saldoGols": 23,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Atlético MG",
+"pontos": 62,
+"vitorias": 17,
+"empates": 11,
+"derrotas": 9,
+"saldoGols": 11,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Atlético PR",
+"pontos": 56,
+"vitorias": 17,
+"empates": 5,
+"derrotas": 15,
+"saldoGols": 6,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Palmeiras",
+"pontos": 77,
+"vitorias": 23,
+"empates": 8,
+"derrotas": 6,
+"saldoGols": 29,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Flamengo",
+"pontos": 70,
+"vitorias": 20,
+"empates": 10,
+"derrotas": 7,
+"saldoGols": 17,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Santos",
+"pontos": 68,
+"vitorias": 21,
+"empates": 5,
+"derrotas": 11,
+"saldoGols": 23,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Atlético MG",
+"pontos": 62,
+"vitorias": 17,
+"empates": 11,
+"derrotas": 9,
+"saldoGols": 11,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Atlético PR",
+"pontos": 56,
+"vitorias": 17,
+"empates": 5,
+"derrotas": 15,
+"saldoGols": 6,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Palmeiras",
+"pontos": 77,
+"vitorias": 23,
+"empates": 8,
+"derrotas": 6,
+"saldoGols": 29,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Flamengo",
+"pontos": 70,
+"vitorias": 20,
+"empates": 10,
+"derrotas": 7,
+"saldoGols": 17,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Santos",
+"pontos": 68,
+"vitorias": 21,
+"empates": 5,
+"derrotas": 11,
+"saldoGols": 23,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Atlético MG",
+"pontos": 62,
+"vitorias": 17,
+"empates": 11,
+"derrotas": 9,
+"saldoGols": 11,
+"numJogos": 37
+},
+{
+"chave": null,
+"nome": "Chapecoense AF",
+"pontos": 56,
+"vitorias": 17,
+"empates": 5,
+"derrotas": 15,
+"saldoGols": 6,
+"numJogos": 37
+}
+]

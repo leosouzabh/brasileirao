@@ -1,0 +1,109 @@
+{
+"rodadas": [
+{
+"rodada": 1,
+"timeA": {
+"nome": "Cruzeiro",
+"gol": 0
+},
+"timeB": {
+"nome": "Palmeiras",
+"gol": 0
+},
+"data": 1480798819081,
+"local": "São Januario"
+},
+{
+"rodada": 1,
+"timeA": {
+"nome": "Flamengo",
+"gol": 0
+},
+"timeB": {
+"nome": "Palmeiras",
+"gol": 0
+},
+"data": 1480798819092,
+"local": "São Januario"
+},
+{
+"rodada": 1,
+"timeA": {
+"nome": "Flamengo",
+"gol": 0
+},
+"timeB": {
+"nome": "Atleticomg",
+"gol": 0
+},
+"data": 1480798819092,
+"local": "São Januario"
+},
+{
+"rodada": 1,
+"timeA": {
+"nome": "Flamengo",
+"gol": 0
+},
+"timeB": {
+"nome": "Palmeiras",
+"gol": 0
+},
+"data": 1480798819092,
+"local": "São Januario"
+},
+{
+"rodada": 2,
+"timeA": {
+"nome": "Palmeiras",
+"gol": 0
+},
+"timeB": {
+"nome": "Cruzeiro",
+"gol": 0
+},
+"data": 1480798819092,
+"local": "São Januario"
+},
+{
+"rodada": 2,
+"timeA": {
+"nome": "Flamengo",
+"gol": 0
+},
+"timeB": {
+"nome": "Palmeiras",
+"gol": 0
+},
+"data": 1480798819092,
+"local": "São Januario"
+},
+{
+"rodada": 2,
+"timeA": {
+"nome": "Atleticomg",
+"gol": 0
+},
+"timeB": {
+"nome": "Flamengo",
+"gol": 0
+},
+"data": 1480798819092,
+"local": "São Januario"
+},
+{
+"rodada": 2,
+"timeA": {
+"nome": "Flamengo",
+"gol": 0
+},
+"timeB": {
+"nome": "Palmeiras",
+"gol": 0
+},
+"data": 1480798819092,
+"local": "São Januario"
+}
+],
+"rodadaAtual": 2
+}
